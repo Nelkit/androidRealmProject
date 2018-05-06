@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formularios</string>
+    <string name="title_activity_form">Nuevo Cliente</string>
+
+    <string-array name="country_array">
+        <item>Honduras</item>
+        <item>Mexico</item>
+        <item>Colombia</item>
+    </string-array>
+</resources>
